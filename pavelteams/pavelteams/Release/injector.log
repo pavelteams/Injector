@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Zprostředkující adresář (Release\) obsahuje soubory sdílené z jiného projektu (RandoInjector.vcxproj). To může způsobit nesprávné chování při čištění a opětovném sestavení.
+  Main.cpp
+C:\Users\Lukáš\Desktop\pavelteams\pavelteams\Main.cpp(37): warning C4715: GetPid: ne všechny cesty k ovládacím prvkům vrací hodnotu
+  injector.vcxproj -> C:\Users\Lukáš\Desktop\pavelteams\Release\injector.exe

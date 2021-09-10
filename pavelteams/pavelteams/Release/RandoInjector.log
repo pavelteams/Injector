@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Lukáš\Desktop\RandoInjector\RandoInjector\Main.cpp(41): warning C4715: GetPid: ne všechny cesty k ovládacím prvkům vrací hodnotu
+  RandoInjector.vcxproj -> C:\Users\Lukáš\Desktop\RandoInjector\Release\RandoInjector.exe
